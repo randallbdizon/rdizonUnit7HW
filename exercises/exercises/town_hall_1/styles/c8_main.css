@@ -227,3 +227,8 @@ a {
 	}
 }
 
+@media only screen and (width <= 432px) {
+	body {
+		font-size: 90%;
+	}
+}
