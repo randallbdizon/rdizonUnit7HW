@@ -193,6 +193,9 @@ a {
 		display: none;
 		
 	}
+	.slicknav_menu {
+		background-color: #800000 !important;
+	}
 }
 
 @media only screen and (width <= 640px) {
